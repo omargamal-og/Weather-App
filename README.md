@@ -30,6 +30,13 @@ Icons and visuals are displayed using **Font Awesome** and custom images for a c
 
 ---
 
+## 🧑‍💻 How to Use / Run Locally
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/omargamal-og/Weather-App.git
+
+---
+
 ## 📂 Project Structure
 Weather-App/
 │
@@ -92,7 +99,9 @@ Split your JavaScript into smaller, modular files for cleaner structure and easi
 
 ---
 
-## 🧑‍💻 How to Use / Run Locally
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/omargamal-og/Weather-App.git
+## 🧑‍🎨 Author
+
+**Omar Gamal**  
+💻 [GitHub](https://github.com/omargamal-og)  
+🔗 [LinkedIn](https://www.linkedin.com/in/omarrgamall)  
+📧 [Email](mailto:omargamalemam@gmail.com)
