@@ -38,6 +38,7 @@ Icons and visuals are displayed using **Font Awesome** and custom images for a c
 ---
 
 ## 📂 Project Structure
+```
 Weather-App/
 │
 ├── assets/
@@ -54,6 +55,7 @@ Weather-App/
 ├── index.html               # Main HTML file (UI layout)
 ├── README.md                # Project documentation
 └── .gitignore               # Files ignored by Git
+```
 
 ---
 
